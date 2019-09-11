@@ -6,4 +6,4 @@ destructivelyAddElementToBeginningOfArray;
  accessElementInArray;
  destructivelyRemoveElementFromBeginningOfArray;
  removeElementFromBeginningOfArray;
- 
+ destructivelyRemoveElementFromEndOfArray;
